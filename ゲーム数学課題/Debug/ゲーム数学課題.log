@@ -1,0 +1,12 @@
+﻿  gazou.cpp
+C:\Users\GA1B\Desktop\ゲーム数学課題\ゲーム数学課題\gazou.cpp(128,41): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\GA1B\Desktop\ゲーム数学課題\ゲーム数学課題\gazou.cpp(129,41): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\GA1B\Desktop\ゲーム数学課題\ゲーム数学課題\gazou.cpp(130,44): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\GA1B\Desktop\ゲーム数学課題\ゲーム数学課題\gazou.cpp(131,44): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\GA1B\Desktop\ゲーム数学課題\ゲーム数学課題\gazou.cpp(134,90): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\GA1B\Desktop\ゲーム数学課題\ゲーム数学課題\gazou.cpp(145,47): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\GA1B\Desktop\ゲーム数学課題\ゲーム数学課題\gazou.cpp(146,47): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+  ゲーム数学課題.vcxproj -> C:\Users\GA1B\Desktop\ゲーム数学課題\Debug\ゲーム数学課題.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(2066,5): warning MSB3073: コマンド ""C:\Users\GA1B\Desktop\ゲーム数学課題\Debug\ゲーム数学課題.exe" /RegServer" はコード 1 で終了しました。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(2066,5): warning MSB4181: "Exec" タスクから false が返されましたが、エラーがログに記録されませんでした。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(2072,5): error MSB8011: 出力の登録に失敗しました。ユーザーごとのリダイレクトを有効にするか、引き上げられたアクセス許可を使用して、コマンド プロンプトからコンポーネントを登録してください。
